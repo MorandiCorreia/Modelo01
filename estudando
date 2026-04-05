@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    int idade = 25;
-    float altura = 1.75;
-    char opcao = 'S';
-    char nome[20] = "sergio";
+    int idade = 32;
+    float altura = 1.70;
+    char opcao = 'C';
+    char nome[20] = "Morandi";
 
     printf("A idade do %s é: %d\n", nome, idade);
     printf("A altura é: %f\n", altura);
@@ -12,3 +12,4 @@ int main() {
 
     return 0;
 }
+
